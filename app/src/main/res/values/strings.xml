@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">Detideda Songbook</string>
+    <string name="a11y_album_item_image">Picture of album</string>
+    <string name="bpm">%d bpm</string>
+    <string name="back">Back</string>
+    <string name="song_detail_transition_name" translatable="false">song_detail</string>
+    <string name="song_card_transition_name" translatable="false">song_card_%1$d</string>
+    <string name="song_list_transition_name" translatable="false">song_list</string>
+    <string name="album_card_transition_name" translatable="false">album_card_%1$d</string>
+    <string name="select_an_album">Select an album</string>
+</resources>

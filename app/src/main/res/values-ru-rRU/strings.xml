@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a11y_album_item_image">Картинка альбома</string>
+    <string name="bpm">Темп: %d</string>
+    <string name="back">Назад</string>
+    <string name="select_an_album">Выберите альбом</string>
+</resources>
